@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>repl.it</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script>
+    alert("hai sayang")
+    alert("rinduu bila leh call")
+    alert("asyik valor x pun emel")
+    alert("kita tahu kita sape")
+    alert("byeee,muahh")
+    alert("i love you")
+  </script>
+</head>
+
+<body>
+  <script src="scrip.js"></script>
+</body>
+
+</html>
